@@ -1,4 +1,4 @@
-# Helio Simulator
+# Helio Simulator | v2026.09.20.1809
 
 Application web cartographique de simulation solaire 3D pour explorer l'implantation de panneaux photovoltaïques sur des bâtiments.
 

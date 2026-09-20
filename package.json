@@ -4,6 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "prepare": "node scripts/configure-git-hooks.mjs",
     "dev": "vite",
     "prebuild": "node scripts/update-build-version.mjs",
     "build": "vite build",
