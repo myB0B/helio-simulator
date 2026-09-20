@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /heliosim/
+
+Sitemap: https://fcinc.fr/heliosim/sitemap.xml

@@ -1,0 +1,20 @@
+{
+  "name": "helio-simulator",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "prebuild": "node scripts/update-build-version.mjs",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "node --test src/*.test.js"
+  },
+  "devDependencies": {
+    "vite": "^8.2.2"
+  },
+  "dependencies": {
+    "maplibre-gl": "^6.7.0",
+    "suncalc": "^2.0.2"
+  }
+}

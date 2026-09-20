@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <g transform="rotate(-20 32 32)">
+    <path d="M32 7A25 25 0 0 1 57 32V52A5 5 0 0 1 52 57H32A25 25 0 0 1 7 32A25 25 0 0 1 32 7Z" fill="#e7a43a"/>
+    <text x="32" y="41" fill="#173b27" font-family="Georgia, serif" font-size="34" font-weight="700" text-anchor="middle">H</text>
+  </g>
+</svg>

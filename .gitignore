@@ -1,0 +1,13 @@
+.env
+.env.local
+node_modules/
+dist/
+
+# Archives, traces et prototypes historiques non nécessaires à l'application Vite.
+assets/
+vendor/
+heliosim*.json
+capture.png
+debug-capture.mjs
+src/editor.css.recover
+src/temp_read.py
