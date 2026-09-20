@@ -18,7 +18,7 @@ Application web cartographique de simulation solaire 3D pour explorer l'implanta
 
 ## Démo en ligne
 
-Le simulateur est accessible sur [fcinc.fr/heliosim](https://fcinc.fr/heliosim/).
+Une démo de Helio Simulator est accessible sur [fcinc.fr/heliosim](https://fcinc.fr/heliosim/).
 
 ## Technologies
 
