@@ -4,6 +4,12 @@ Application web cartographique de simulation solaire 3D pour explorer l'implanta
 
 **Helio Simulator est un outil informatif et ludique.** Les résultats sont indicatifs et ne constituent ni une étude technique, financière, réglementaire ou structurelle, ni une garantie de production.
 
+<p align="center">
+  <img src="images/vue-3d.png" alt="Vue 3D de la simulation solaire" width="31%" />
+  <img src="images/edit-batiment.png" alt="Édition d'un bâtiment" width="31%" />
+  <img src="images/edit-panneaux.png" alt="Édition des panneaux solaires" width="31%" />
+</p>
+
 ## Fonctionnalités
 
 - Recherche d'adresse et mémorisation locale du dernier point de départ.
