@@ -16,6 +16,10 @@ Application web cartographique de simulation solaire 3D pour explorer l'implanta
 - Estimation indicative de la puissance, de la production, de l'autosuffisance et du surplus, par bâtiment et pour l'ensemble des bâtiments créés.
 - Persistance locale des créations et réglages dans le navigateur.
 
+## Démo en ligne
+
+Le simulateur est accessible sur [fcinc.fr/heliosim](https://fcinc.fr/heliosim/).
+
 ## Technologies
 
 - [Vite](https://vite.dev/)
@@ -69,6 +73,10 @@ La build de production est configurée pour [fcinc.fr/heliosim](https://fcinc.fr
 ## Limites
 
 Les données, ombres, rendements et productions calculés restent simplifiés. Une étude qualifiée nécessiterait notamment des données de toiture et d'altimétrie fiables, des masques d'ombrage complets, une source d'irradiation traçable telle que PVGIS et une validation professionnelle.
+
+## Crédits
+
+Réalisé par FC avec OpenCode et ChatGPT 5.6 Terra Fast.
 
 ## Licence
 
